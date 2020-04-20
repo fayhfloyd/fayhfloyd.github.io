@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://fayhfloyd.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2020 22:03:05 +0800</lastBuildDate>
+    
+	<atom:link href="https://fayhfloyd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇博客：用hugo&#43;github部署我的博客服务器</title>
+      <link>https://fayhfloyd.github.io/post/hello/</link>
+      <pubDate>Mon, 20 Apr 2020 22:03:05 +0800</pubDate>
+      
+      <guid>https://fayhfloyd.github.io/post/hello/</guid>
+      <description>我的第一篇博客：用hugo+github部署我的博客服务器 一推再推终于开始做我的博客服务器。
+发现现在市面上，除了自己假设服务器以外，最简单的方式还是在github page开通一个自己的博客。但这样的话，势必要开始学习怎么在github上部署页面了。
+多年以前，其实有接触过一些wordpress的内容，但实际只用起来还是比较麻烦，最终还是放弃了。没想到，疫情三个月后的今天，自己开始建立起自己的博客。
+ 最近这段时间，一直没什么事情，一直在做自我调整和找一些方向，发现没事干的时候真的非常的可怕。还是需要给自己一些压力，让自己学习些什么也记录些什么东西。
+同时，发现其实自己对很多事情的意见，开始被保留在心里，不愿意说也不敢说，我觉得从梁文道的播客里听到的是，其实有些意见能说出来，对自己还是非常重要的。
+ 建一个小站试试看吧，无他，看看能写多久。</description>
+    </item>
+    
+  </channel>
+</rss>
